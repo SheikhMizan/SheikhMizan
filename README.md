@@ -4,4 +4,4 @@ Sheikh MiZan <br>
 🎮 Gamer <br>
 🎥 Youtuber <br>
 Use this link for web projects -
-sheikhmizan.com
+https://sheikhmizan.com/#contact
